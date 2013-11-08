@@ -94,21 +94,21 @@ Query String Format:
 
 ## CHANGELOG
 
-### 09-11-2013
- * [improvement] More consistent, cleaner handling of `itemprop` arg. (Shifting to use of `sprintf`.)
- * [new] `link_label` argument for `email` and `link` field types.
-
-### 13-06-2013
+### 13 Jun 2013
 
  * Added changelog
  * [new] filter to add new types: `return_get_acf_field`
     * (thanks @wells5609: https://gist.github.com/wells5609/5786376)
  * [new] filter for label class: `get_acf_field_label_class`
 
-### 28-06-2013
+### 28 Jun 2013
  * [new] post_list type
  * [new] date type
  * [new] `sub_field` argument for use in `while( has_sub_field() ) ...`
  
-### 11-07-2013
+### 11 Jul 2013
  * [new] term and term_link types added for taxonomy fields for a single term
+
+### 9 Nov 2013
+ * [improvement] More consistent, cleaner handling of `itemprop` arg. (Shifting to use of `sprintf`.)
+ * [new] `link_label` argument for `email` and `link` field types.
