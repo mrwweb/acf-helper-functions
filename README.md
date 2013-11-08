@@ -27,9 +27,7 @@ With this:
 
 ## WHY?
 
-It gets annoying to repeat so much code to output a simple ACF field. You have to test if the field is there, add a label, add schema.org markup, etc.
-
-This tries to help take care of that though I don't expect it to handle things as complicated as a Repeater field.
+It gets annoying to repeat so much code to output a simple ACF field. You have to test if the field is there, add a label, add schema.org markup, etc. This tries to help take care of some of the most common and repetitive output patterns.
 
 ## ARGUMENTS
 
