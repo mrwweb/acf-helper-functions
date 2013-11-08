@@ -2,9 +2,7 @@
 
 A powerful set of functions for outputting common markup patterns with [Advanced Custom Fields Plugin](http://wordpress.org/plugins/advanced-custom-fields/) for WordPress.
 
-Formerly a gist at https://gist.github.com/mrwweb/5768363
-
-See Also: ACF Forums discussion at http://support.advancedcustomfields.com/discussion/comment/19680#Comment_19680
+Formerly [a gist](https://gist.github.com/mrwweb/5768363). Intial [ACF Forums discussion](http://old.support.advancedcustomfields.com/discussion/comment/19680).
 
 ## OVERVIEW
 
