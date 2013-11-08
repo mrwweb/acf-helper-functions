@@ -1,12 +1,12 @@
-# Advanced Custom Fields Output Helper Functions
+# ACF Output Helper Functions
 
-A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
+A powerful set of functions for outputting common markup patterns with [Advanced Custom Fields Plugin](http://wordpress.org/plugins/advanced-custom-fields/) for WordPress.
 
 Formerly a gist at https://gist.github.com/mrwweb/5768363
 
 See Also: ACF Forums discussion at http://support.advancedcustomfields.com/discussion/comment/19680#Comment_19680
 
-Clean, standardized output for common Advanced Custom Fields scenarios.
+## OVERVIEW
 
 Two simple functions: `get_acf_field()` and `the_acf_field()`, the latter of which is just a simple wrapper function.
 
