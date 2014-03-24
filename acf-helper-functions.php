@@ -77,10 +77,10 @@ function get_acf_field( $field_key = false, $args = array(), $post_id = null ) {
 			break;
 
 		case 'email':
-			$link_text = $link_text ? $link_text : $field;
+			$link_text = $link_text ? $link_text : antispambot( $field );
 			$output = sprintf(
 				'<a href="mailto:%1$s"%2$s>%3$s</a>',
-				$field,
+				antispambot( $field ),
 				$itemprop_attr,
 				$link_text
 			);
